@@ -1,0 +1,23 @@
+{
+  "name": "viii",
+  "version": "0.0.1",
+  "description": "viii visuals",
+  "main": "soundvis.js",
+  "dependencies": {
+    "p5": "^0.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neue/viii.git"
+  },
+  "author": "neue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neue/viii/issues"
+  },
+  "homepage": "https://github.com/neue/viii#readme"
+}
